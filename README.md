@@ -4,3 +4,7 @@
 2. Embedding models ## openai, hugging face, gemini
 
 3. vector database  ##inmemory ##ondisk ##cloudbase
+
+##Groq API Key Link
+
+https://console.groq.com/keys
